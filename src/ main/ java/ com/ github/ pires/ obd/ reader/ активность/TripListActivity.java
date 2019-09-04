@@ -118,7 +118,7 @@ public class TripListActivity
         }
     }
 
-    protected Dialog onCreateDialog(int id) {
+    proteted Dialog onCreateDialog(int id) {
         return createDialog(id, this, this);
     }
 
